@@ -5693,6 +5693,11 @@ react-native-gradle-plugin@^0.71.14:
   resolved "https://registry.yarnpkg.com/react-native-gradle-plugin/-/react-native-gradle-plugin-0.71.15.tgz#9e6b506f30729fe8eb086981702f4e3c891d2b13"
   integrity sha512-7S3pAuPaQJlhax6EZ4JMsDNpj05TfuzX9gPgWLrFfAIWIFLuJ6aDQYAZy2TEI9QJALPoWrj8LWaqP/DGYh14pw==
 
+react-native-ramp@^0.1.4:
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/react-native-ramp/-/react-native-ramp-0.1.4.tgz#1a09b657c39fac20a87f9d1bcfd52f60ebf1d28d"
+  integrity sha512-//gOdbqw42YUcIrMgxK48GyTKo/qokDdupmHZOvAJYCzlQIN6inHuR8fZLxBS4oF1am0nndwBAQAjhZ8sDx/yQ==
+
 react-native@0.71.2:
   version "0.71.2"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.71.2.tgz#b6977eda2a6dc10baa006bf4ab1ee08318607ce9"
