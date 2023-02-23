@@ -51,5 +51,11 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>RampApplicationId</key>
+	<string>YourApplicationId</string>
+	<key>RampEnvironmentId</key>
+	<string>YourEnvironmentId</string>
+	<key>RampApikey</key>
+	<string>YourAPIKey</string>
 </dict>
 </plist>
